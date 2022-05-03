@@ -1,0 +1,20 @@
+img {
+    width: 150px;
+    border-radius: 110px;
+    float: left;
+    margin-right: 20px;
+  }
+  body {
+    
+     background-image: url("/images/sakuna.jpg");
+    background-repeat: repeat;
+     height: 160vh;
+     background-size: 100% 100%; 
+      
+  }
+  h1 {color :red}
+  h2 {color :blue}
+  p {color :whitesmoke}
+  p {font-family: cursive, "lucida handwriting";}
+  P {font-size: medium;}
+  label {color: red;}
